@@ -15,7 +15,6 @@
 		<action id="wave.swf" name="wave" loop="Y" totalframe="60" ></action>
 		<action id="sing.swf" name="sing" loop="Y" totalframe="40" ></action>
 		<motion id="run.swf" name="Run" loop="Y" totalframe="20"></motion>
-		<motion id="stand.swf" name="Walk" loop="Y" totalframe="61"></motion>
 	</char>
 	<char id="kim" name="Kim" thumb="stand.swf" facing="left" default="stand.swf" motion="run.swf" enable="Y">
 		<action id="attack.swf" name="attack" loop="Y"	totalframe="100"></action>
@@ -31,7 +30,6 @@
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="30"/>
 		<action id="talk.swf" name="Talk" loop="Y" totalframe="50"/>
 		<action id="wave.swf" name="wave" loop="Y" totalframe="60" ></action>
-		<motion id="stand.swf" name="Walk" loop="Y" totalframe="30"></motion>
 		<motion id="run.swf" name="Run" loop="Y" totalframe="61"></motion>
 	</char>
 	<char id="grannie" name="Grannie" thumb="stand.swf" facing="left" default="stand.swf" motion="run.swf" enable="Y">
@@ -40,7 +38,6 @@
 		<action id="kiss.swf" name="Kiss" loop="Y" totalframe="60" />
 		<action id="laugh.swf" name="Laugh" loop="Y" totalframe="40" />
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="40" />
-		<motion id="stand.swf" name="Displace" loop="Y" totalframe="40"></motion>
 		<motion id="run.swf" name="Run" loop="Y" totalframe="14"></motion>
 	</char>
 	<char id="kan" name="Kan" thumb="stand.swf" facing="left" default="stand.swf" motion="run.swf" enable="Y">
@@ -51,7 +48,6 @@
 		<action id="stand.swf" name="Stand" loop="Y" totalframe="80" />
 		<action id="talk.swf" name="Talk" loop="Y" totalframe="80" />
 		<motion id="run.swf" name="Run" loop="Y" totalframe="24"></motion>
-		<motion id="stand.swf" name="Displace" loop="Y" totalframe="80"></motion>
 	</char>
 	<char id="matchBoy" name="Match Boy" thumb="stand.swf" facing="left" default="stand.swf" motion="walk.swf" enable="Y">
 		<action id="dance.swf" name="Dance" loop="Y" totalframe="44" />

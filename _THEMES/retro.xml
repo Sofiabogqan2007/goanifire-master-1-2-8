@@ -1250,7 +1250,7 @@
     <motion id="walk.swf" name="Walk" loop="Y" totalframe="8" enable="Y" aid="4808"/>
     <action id="angry.swf" name="angry" loop="Y" totalframe="50" enable="Y" aid="4809"/>
     <action id="confused.swf" name="confused" loop="Y" totalframe="70" enable="Y" aid="4810"/>
-    <action id="excited.swf" name="excited" loop="Y" totalframe="75" enable="Y" aid="4811"/>
+    <action id="excited.swf" name="excited" loop="N" totalframe="75" enable="Y" aid="4811"/>
     <action id="scared.swf" name="scared" loop="Y" totalframe="2" enable="Y" aid="4812"/>
     <action id="furious.swf" name="furious" loop="Y" totalframe="100" enable="Y" aid="4813"/>
     <action id="happy.swf" name="happy" loop="Y" totalframe="60" enable="Y" aid="4814"/>
@@ -1314,7 +1314,7 @@
     <action id="dance.swf" name="dance" loop="Y" totalframe="105" enable="Y" aid="5954"/>
     <action id="talking.swf" name="talk" loop="Y" totalframe="100" enable="Y" aid="5955"/>
   </char>
-  <char id="green_snuggle" name="Green Snuggie" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5956" money="0" sharing="0">
+  <char id="green_snuggle" name="Light Blue Snuggie" thumb="standing.swf" facing="left" default="standing.swf" motion="walk.swf" enable="Y" is_premium="N" aid="5956" money="0" sharing="0">
     <action id="standing.swf" name="standing" loop="Y" totalframe="44" enable="Y" aid="5957"/>
     <motion id="walk.swf" name="walk" loop="Y" totalframe="30" enable="Y" aid="5958"/>
     <action id="angry.swf" name="angry" loop="Y" totalframe="80" enable="Y" aid="5959"/>
@@ -1433,6 +1433,7 @@
   <background id="bar.swf" name="Bar" enable="Y" default="Y" is_premium="N" aid="1015" money="0" sharing="0"/>
   <background id="battlefield.swf" name="BattleField" enable="Y" is_premium="N" aid="1016" money="0" sharing="0"/>
   <background id="hawaii beach.swf" name="Hawaii Beach" enable="Y" is_premium="N" aid="1028" money="0" sharing="0"/>
+  <background id="waleed_bedroom_bg.swf" name="Waleeds Bedroom" enable="Y" is_premium="N" aid="1028" money="0" sharing="0"/>
   <background id="eiffel tower.swf" name="Eiffel Tower" enable="Y" is_premium="N" aid="1029" money="0" sharing="0"/>
   <background id="garage.swf" name="Garage" enable="Y" is_premium="N" aid="4872" money="0" sharing="0"/>
   <background id="flashing.swf" name="Flashing" enable="Y" is_premium="N" aid="4873" money="0" sharing="0">
